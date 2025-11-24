@@ -1,0 +1,14 @@
+.\flash\blinky.o: Blinky.c
+.\flash\blinky.o: GLCD.h
+.\flash\blinky.o: KBD.h
+.\flash\blinky.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\blinky.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\blinky.o: snake.h
+.\flash\blinky.o: poker.h
+.\flash\blinky.o: usbdmain.h
+.\flash\blinky.o: tree.h
+.\flash\blinky.o: grass.h
+.\flash\blinky.o: cat.h
+.\flash\blinky.o: firework.h
+.\flash\blinky.o: port.h
+.\flash\blinky.o: japan.h

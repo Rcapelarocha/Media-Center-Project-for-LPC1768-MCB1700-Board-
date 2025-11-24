@@ -1,0 +1,20 @@
+--cpu Cortex-M3
+".\flash\startup_lpc17xx.o"
+".\flash\system_lpc17xx.o"
+".\flash\glcd_spi_lpc1700.o"
+".\flash\irq.o"
+".\flash\blinky.o"
+".\flash\kbd.o"
+".\flash\snake.o"
+".\flash\poker.o"
+".\flash\usbuser.o"
+".\flash\adcuser.o"
+".\flash\core_cm3.o"
+".\flash\usbcore.o"
+".\flash\usbdesc.o"
+".\flash\usbdmain.o"
+".\flash\usbhw.o"
+--library_type=microlib --strict --scatter ".\Flash\Blinky.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Flash\Blinky.map" -o .\Flash\Blinky.axf
