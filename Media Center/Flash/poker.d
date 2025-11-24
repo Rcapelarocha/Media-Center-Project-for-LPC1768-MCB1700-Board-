@@ -1,0 +1,15 @@
+.\flash\poker.o: poker.c
+.\flash\poker.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\poker.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.H
+.\flash\poker.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h
+.\flash\poker.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\poker.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\flash\poker.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\flash\poker.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\flash\poker.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h
+.\flash\poker.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h
+.\flash\poker.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\flash\poker.o: GLCD.h
+.\flash\poker.o: KBD.h
+.\flash\poker.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\flash\poker.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
